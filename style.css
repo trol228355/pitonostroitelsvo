@@ -1,21 +1,32 @@
+h3{
+    color:rgb(235, 238, 141);
+}
+
 h1{
     text-align:center;
-    color: rgb(235, 238, 141)
+    color: rgb(235, 238, 141);
+    font-size: 45px
+}
 
+main {
+    padding-left:45px;
 }
 
 body{
     background-color:rgb(6, 6, 42);
-    font-family: garamond
+    font-family: garamond;
 }
+
 
 h2{
     color:rgb(235, 238, 141);
-    text-align:center
+    text-align:center;
+    font-size: 28px;
 }
 
 p{
-    color:rgb(235, 238, 141)
+    color:rgb(235, 238, 141);
+    font-size: 22px
 }
 
 
@@ -24,11 +35,6 @@ span{
     color:black
 }
 
-
-
-li{
-    color:rgb(235, 238, 141)
-}
 .cartinci img{
     width: 25%;
     padding: 5px 0;
@@ -38,11 +44,58 @@ li{
     align-items: center;
     align-content: center;
 }
-.cartinci p{
-    text-align: center;
+
+
+ul{
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
+    width: 15%;
+}
+
+.geniy{
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
+    width: 10%;
+}
+
+.big{
+    height: 300x;
+    width: 450px;
+}
+
+.uul {
+    background-color: rgb(67, 176, 67);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(1, 10, 56);
+    font-size: 20px;
+    width: 29%;
+}
+
+.downl {
+    text-decoration: none;
+    background-color: aqua;
+    border: 2px solid aquamarine;
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    padding: 20px;
+    width: 100%;
 
 }
 
-.cartinci{
-    max-width: 200px;
+footer p {
+    color:dimgray;
+    font-size: 15px;
 }
