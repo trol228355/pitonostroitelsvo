@@ -1,0 +1,48 @@
+h1{
+    text-align:center;
+    color: rgb(235, 238, 141)
+
+}
+
+body{
+    background-color:rgb(6, 6, 42);
+    font-family: garamond
+}
+
+h2{
+    color:rgb(235, 238, 141);
+    text-align:center
+}
+
+p{
+    color:rgb(235, 238, 141)
+}
+
+
+span{
+    background-color:rgba(186, 142, 28, 0.784);
+    color:black
+}
+
+
+
+li{
+    color:rgb(235, 238, 141)
+}
+.cartinci img{
+    width: 25%;
+    padding: 5px 0;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    align-items: center;
+    align-content: center;
+}
+.cartinci p{
+    text-align: center;
+
+}
+
+.cartinci{
+    max-width: 200px;
+}
